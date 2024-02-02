@@ -169,15 +169,15 @@ disqus:
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
-  enabled: false
-  repo: owner/githubrepo
+  enabled: true
+  repo: shadowelite-sec/ctf
   issue_term: pathname
   label: Comment
   theme: github-dark
 
 # comments
 giscus:
-  enable: true
+  enable: false
   repo: ctf
   repo_id: shadowelite-sec
   category: # Github discussion category
